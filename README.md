@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @Tuanemendes
-- 👀 I’m interested in  aprender.
-- 🌱 I’m currently learning  java , html,css. 
-- 💞️  Estou como estágiaria  na empresa SPDATA  
-- 📫 How to reach me  tuane.belmiro@gmail.com
 
 ## Oiii! Eu sou a Tuane Mendes 
  <div>
@@ -23,12 +18,15 @@
 <div>
  <a href="https://instagram.com/tuanemendes_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/tuane-mendes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href = "mailto:tuane.belmiro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<!--- <a href = "mailto:tuane.belmiro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> --->
  
   ![Snake animation](https://github.com/TuaneMendes/Tuanemendes/blob/output/github-contribution-grid-snake.svg)
  
  </div>
 
+                       👀  
+- 💻 Estou como estágiaria em desenvolvimento e teste. 
+- 📫 Email: tuane.belmiro@gmail.com
 
 <!---
 Tuanemendes/Tuanemendes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
