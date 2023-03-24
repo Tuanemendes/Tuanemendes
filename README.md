@@ -1,5 +1,5 @@
 
-## Seja Bem Vindo(a)! Eu sou Tuane Mendes 
+## Welcome(a)! I'm Tuane Mendes 
  <div>
   <a href="https://github.com/Tuanemendes">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Tuanemendes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -29,7 +29,7 @@
  </div>
 
 👀  
-- 💻 Estou como estágiaria em desenvolvimento web. 
+- 💻 developer web Java
 - 📫 Email: tuane.belmiro@gmail.com
 
 <!---
