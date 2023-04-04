@@ -29,7 +29,7 @@
  </div>
 
 👀  
-- 💻 developer web Java
+- 💻 developer web
 - 📫 Email: tuane.belmiro@gmail.com
 
 <!---
