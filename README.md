@@ -35,13 +35,13 @@
 
   ##### Rede Profissional
     
-  <a href="https://www.linkedin.com/in/tuane-mendes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="maito:tuane.belmiro@gmail.com" target="_blank"><img src="" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/tuane-mendes/" target="_blank"><img  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a> 
+
  - 📫 Email: tuane.belmiro@gmail.com
  
   ##### Rede Social
 
-  <a href="https://instagram.com/tuanemendes_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/tuanemendes_/" target="_blank"><img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/></a>
 
  
  
@@ -51,8 +51,6 @@
    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuanemendes&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-- 💻 Developer web front-end
-- 📫 Email: tuane.belmiro@gmail.com
 
 <!---
 Tuanemendes/Tuanemendes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
