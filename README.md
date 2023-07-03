@@ -2,10 +2,10 @@
 ## Welcome to my Github profile! I'm Tuane Mendes  
 
   <a href="https://github.com/Tuanemendes">
-  <div>
-    <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tuanemendes&theme=nord_dark"/>
+  <div align="center">
+    <img height="170em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tuanemendes&theme=nord_dark"/>
      
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuanemendes&layout=compact&langs_count=7&theme=tokyonight"/>
+   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuanemendes&layout=compact&langs_count=7&theme=tokyonight"/>
   </div>   
 
 
@@ -31,23 +31,18 @@
   </div>
  
   ### 📫 Como entrar em contato comigo:
+
+  <div style="display: inline"><br>
+     
+  - 📫 Email: tuane.belmiro@gmail.com
   
-
-
-  ##### Rede Profissional
-    
   <a href="https://www.linkedin.com/in/tuane-mendes/" target="_blank"><img  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a> 
 
- - 📫 Email: tuane.belmiro@gmail.com
- 
-  ##### Rede Social
-
   <a href="https://instagram.com/tuanemendes_/" target="_blank"><img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/></a>
-
+  
+ </div>
  
- 
-
-<div> 
+<div align="center"> 
    <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tuanemendes&theme=nord_dark"/>
    
 </div>
