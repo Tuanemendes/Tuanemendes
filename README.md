@@ -2,7 +2,12 @@
 ## Welcome to my Github profile! I'm Tuane Mendes  
 
   <a href="https://github.com/Tuanemendes">
-   
+  <div>
+    <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tuanemendes&theme=nord_dark"/>
+     
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuanemendes&layout=compact&langs_count=7&theme=tokyonight"/>
+  </div>   
+
 
   ####  💻 Developer front-end
 
@@ -47,8 +52,8 @@
  
 
 <div> 
-   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Tuanemendes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuanemendes&layout=compact&langs_count=7&theme=dracula"/>
+   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tuanemendes&theme=nord_dark"/>
+   
 </div>
 
 
