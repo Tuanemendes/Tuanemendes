@@ -12,7 +12,7 @@
   ####  💻 Developer front-end
 
 
-  ### Tecnologias e Ferramentas
+  ### Technologies and Tools
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Tuane-Spring" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
@@ -30,7 +30,7 @@
   <img align="center" alt="Tuane-MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   </div>
  
-  ### 📫 Como entrar em contato comigo:
+  ### 📫 How to contact me:
 
   <div style="display: inline"><br>
      
