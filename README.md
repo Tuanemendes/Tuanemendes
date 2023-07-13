@@ -6,7 +6,7 @@
     <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tuanemendes&theme=nord_dark"/>
      
    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuanemendes&layout=compact&langs_count=7&theme=tokyonight"/>
-    <a href="https://github.com/Tuanemendes"><img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=Tuane%20Mendes&theme=dark&hide_border=&border_radius=5.9&card_width=300&hide_total_contributions=true&hide_longest_streak=true"/></a>
+    <a href="https://github.com/Tuanemendes"><img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=Tuanemendes&theme=dark&hide_border=&border_radius=5.9&card_width=300&hide_total_contributions=true&hide_longest_streak=true"/></a>
   </div>   
 
 
